@@ -1,0 +1,124 @@
+li{
+	display: inline-block;
+	margin: 30px;
+	font: 20px;
+	margin-top: 15px;
+}
+
+.menu{
+		text-align: center;
+}
+
+.pessoal{
+	margin-top: 200px;
+	margin-left: 150px;
+}
+
+.button{
+	cursor: pointer;
+	display: inline-block;
+	margin-left: 9em;
+	padding: 0.5em 1em;	
+	background: #287877;
+	color: #FFFF;
+	border: 0;
+	border-radius: 0.5em;
+}
+
+#body-img{	
+	background-image: url(principal.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#liaboutme{
+	display: inline-block;
+	margin: 0 30px;
+	font: 20px;
+	margin-top: 70px;
+}
+
+#sobremim{
+	margin: 30px 0px 0px 150px;
+}
+
+#colunadescriptionleft{
+	width: 320px;
+	height: 270px;
+	float: left;	
+	margin: 30px 0px 0px 150px;
+}
+
+#colunadescriptionright{
+	width: 320px;
+	height: 270px;
+	float: left;	
+	margin: 30px 0px 0px 190px;
+}
+
+#contactme{
+	cursor: pointer;
+	display: inline-block;
+	margin-right: 9em;
+	padding: 0.5em 2em;	
+	background: #287877;
+	color: #FFFF;
+	border: 0;
+	border-radius: 0.5em;
+	float: left;	
+}
+
+.color{
+	color: #287877; 
+}
+
+#contact-color{
+	color: #000000;
+}
+
+#imagecenter{
+	width: 180px;
+	height: 180px;
+	float: left;
+	margin-left: 35px;	
+}
+
+#hrmenu{
+	border: none;
+	height: 2px;
+	background: #dddddd;
+}
+
+#hrform{
+	margin-top: 1px;
+	margin-right: 700px;
+	border: none;
+	height: 1px;
+	background: #dddddd;
+}
+
+#hrabout{
+	margin-left: 150px;
+	margin-right: 1150px;
+	border: none;
+	border-top: 3px solid;
+	color: #287877;
+}
+
+#sobrenome{
+	margin-left: 250px;
+}
+
+.noborder{
+	border: none;
+}
+
+#contatoform{
+	margin-top: 50px;
+	margin-left: 500px;
+}
+
+#formlist{
+	margin-top: 100px;
+	margin-left: 250px;
+}
